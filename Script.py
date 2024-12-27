@@ -14,18 +14,6 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
  ‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://app.koyeb.com'>Koyeb</a> 
  ‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ2.7.1 [sᴛᴀʙʟᴇ]></b>"""
 
-    SOURCE_TXT = """
-<b>Hᴇʏ, Tʜɪs ɪs ᴀ Pʀɪᴠᴀᴛᴇ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
-
-Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
-
-Where is source code? - <a href='https://t.me/ROLEXX_DAS'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
-
-
-Developer - <a href='https://t.me/ROLEXX_DAS'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
-
-
-
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
 <b>ɴᴏᴛᴇ:</b>
@@ -403,7 +391,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 
  
     RESTART_TXT = """
-<b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
+<b>Bᴏᴛ THALA_AJITH Rᴇsᴛᴀʀᴛᴇᴅ !
 
 📅 Dᴀᴛᴇ : <code>{}</code>
 ⏰ Tɪᴍᴇ : <code>{}</code>
